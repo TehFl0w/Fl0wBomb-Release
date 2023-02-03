@@ -1,7 +1,6 @@
 # Fl0wBomb
- A small WindowsForms-App that appears to be Ransomware but doesn't actually do anything except for a countdown that is being displayed.
+ Kleine WindowsForms-App die vortäuscht Ransomware zu sein. Macht quasi nichts ausser deinen Countdown anzeigen.
  
- I wrote this to troll a friend of mine and even though it basically is just a maximized borderless window he actually wiped his server beleaving he got hacked.
- Yeah.
+ Ich hab das geschrieben um einen guten Freund zu trollen. Obwohl das quasi nur ein maximiertes, rahmenloses Fenster ist dachte er sein Server wurde gehackt und hat ihn platt gemacht.
  
- Have Fun xd
+Joa, Viel Spaß xd
